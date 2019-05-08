@@ -1,0 +1,4 @@
+# Don't track content of these folders
+env/
+model_depricated.py
+GeospatialHeatMap_Depricated.py
